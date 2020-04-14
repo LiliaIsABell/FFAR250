@@ -19,7 +19,7 @@ let imageRemix;
 $(document).ready(setup)
 
 function setup(){
-imageRemix = new Audio("assets/sounds/imageRemix.wav");
+imageRemix = new Audio("assets/sounds/imageRemix.mp3");
 
 $button1 = $('#button1');
 $button2 = $('#button2');
